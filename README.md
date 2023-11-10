@@ -31,12 +31,18 @@
 
 ---
 
-### 🔥 My Stats 🔥
+<h3>🔥 My Stats 🔥</h3>
 <br>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=devasheeshG&theme=dark&background=000000" href="#" alt="GitHub Streak">
+<a href="#">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=devasheeshG&theme=dark&background=000000" alt="GitHub Streak">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devasheeshG&theme=vision-friendly-dark" alt="Top Langs">
+<a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=devasheeshG&show_icons=true&theme=vision-friendly-dark&background=000000" alt="Devasheesh's GitHub stats">
+</a>
+
+<a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devasheeshG&theme=vision-friendly-dark" alt="Top Langs">
+</a>
 
 ---
-<!-- to be used when profile is A+ -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=devasheeshG&show_icons=true&theme=vision-friendly-dark&background=000000" alt="Devasheesh's GitHub stats"> -->
