@@ -31,7 +31,7 @@
 
 ---
 
-<h3>🔥 My Stats 🔥</h3>
+<h1>🔥 My Stats 🔥</h3>
 <br>
 <a>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=devasheeshG&theme=dark&background=000000" alt="GitHub Streak">
