@@ -37,9 +37,9 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=devasheeshG&theme=dark&background=000000" alt="GitHub Streak">
 </a>
 <br>
-<a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=devasheeshG&show_icons=true&theme=vision-friendly-dark&background=000000" alt="Devasheesh's GitHub stats">
-</a>
+<!-- <a href="#"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=devasheeshG&show_icons=true&theme=vision-friendly-dark&background=000000" alt="Devasheesh's GitHub stats"> -->
+<!-- </a> -->
 <br>
 <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devasheeshG&theme=vision-friendly-dark" alt="Top Langs">
