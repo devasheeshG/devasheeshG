@@ -1,7 +1,7 @@
 ![MasterHead](init.gif)
 
 <h1 align="center">Hi 👋, I'm DEVASHEESH MISHRA</h1>
-<h3 align="center">A passionate AI specialist from Delhi, India.</h3>
+<h3 align="center">A passionate AI specialist from San Fransisco.</h3>
 <img align="right" alt="Coding" width="400" src="./chatgpt_feat.gif">
 
 <p align="left"> 
