@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 - 📫 How to reach me **devasheesh@devasheeshmishra.com**
-- 📫 Also available at **devasheeshmishra4@gmail.com**
+- 📫 Also available at **devasheesh@recallrai.com**
 - ⚡ Fun fact **I am Funny**
 
 <!-- <p align="left">
